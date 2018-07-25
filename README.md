@@ -68,7 +68,7 @@
 
      a. 在*Inspector* 区域中选定ROI *（Region of  Interest）*，即图像中出现的红色虚线所表示区域。勾选 *Resample ROI* 表示在分割时可重新选定标注区域；勾选 *Initialize with currer segmentation*  表示使用当前标注区域作为最后区域生长的种子。
 
-     b. 点击*Segment 3D* ，进入分割模式选项。在软件框右方出现预分割阶段1 *（Presegmentation Stage 1）*，在Action中可选择预分割模式 *（Presegmentation mode）*， 该软件共有四种预分割模式，阈值模型 *（Thresholding）*，分类模型 *（Classification）*，聚类模型 *（Clustering）*以及边缘吸引模型 *（Edge Attraction）*。
+     b. 点击*Segment 3D* ，进入分割模式选项。在软件框右方出现预分割阶段1 *（Presegmentation Stage 1）*，在Action中可选择预分割模式 *（Presegmentation mode）*， 该软件共有四种预分割模式，阈值模型 *（Thresholding）*，分类模型 *（Classification）*，聚类模型 *（Clustering）* 以及边缘吸引模型 *（Edge Attraction）*。
 
      选择完模型后，则需要针对不同的模型对参数进行不同的处理。
 
@@ -98,9 +98,9 @@
 
   ​	设置完参数后，点击下方▶按钮进行生长。其右边的按钮表示进行一次迭代，左边的按钮表示恢复原状态。
 
-     	在生长完成后，点击下方*Finish*按钮完成自动标注，标注数据会显示在图像中。
+  ​	在生长完成后，点击下方*Finish*按钮完成自动标注，标注数据会显示在图像中。
 
-  在此三种标注方法之后，点击图像显示区域的左下角的*update*按钮可将标注块的3D影像图显示在第三块图像区域中。
+  ​	在此三种标注方法之后，点击图像显示区域的左下角的*update*按钮可将标注块的3D影像图显示在第三块图像区域中。
 
   
 
