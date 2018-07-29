@@ -24,7 +24,7 @@
 
 
 
-- ###### 打开文件 *（File）*
+- #### 打开文件 *（File）*
 
   ​	右上角 *File* 中选择 *Open Main Image（快捷键Ctrl+G）* 浏览文件地址进行选定，也可以通过 *Recent Main Image*  选择文件地址，或者在主显示栏上方的 *Recent Image* 中通过影像缩略图进行打开。
 
@@ -32,7 +32,7 @@
 
   
 
-- ###### 图像编辑 *（Edit）*
+- #### 图像编辑 *（Edit）*
 
   ​	itk-snap中对影像标注的方法有三种，分别为多边形分割 *（Polygon Segmentation）*，毛刷分割 *（Paintbrush）* 和半自动分割 *（Auto-Segmentation）*。
 
@@ -104,7 +104,7 @@
 
   
 
-- ###### 分割数据 *（Segmentation）*
+- #### 分割数据 *（Segmentation）*
 
   ​	对于加载入图像显示区域的图像，可以通过*Segmentation* 菜单中的*Open Segmentation* 工具或者*Recent Segmentation* 直接载入图像的标注数据。
 
@@ -116,13 +116,13 @@
 
   ​	
 
-- ###### 工作空间 *（Workspace）*
+- #### 工作空间 *（Workspace）*
 
   ​	该菜单用于加载 *（Open Workspace & Recent Workspace）* 与保存 *（Save Workspace & Save Workspace as）* 工作空间。
 
   
 
-- ###### 工具 *（Tools）*
+- #### 工具 *（Tools）*
 
   ​	 *Tools*菜单下的*Layer Inspector* 选项中包含了影像数据的各种属性，如对比度 *（Contrast）*，颜色图 *（Color Map）* 以及元数据 *（Metadata）*。该选项下的三个选项分别指向上述三种属性。
 
